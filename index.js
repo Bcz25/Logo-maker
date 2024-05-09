@@ -32,7 +32,7 @@ function questions() {
     ]).then((response) => {
         const logo = generateLogo(response);
         const logoString = logo.toString();
-        fs.writeFile('logo.svg', logoString, (err) => {
+        fs.writeFile(`${response.logoText}.svg`, logoString, (err) => {
             if (err) {
                 console.log(err);
             } else {
