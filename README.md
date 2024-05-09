@@ -9,13 +9,9 @@ AS a freelance web developerI WANT to generate a simple logo for my projectsSO T
 * [Tests](#test)
 * [Questions](#questions)
 
-<a name="license"></a>
-## License - MIT
-https://choosealicense.com/licenses/mit/
-
 <a name="install"></a>
 ## Installation
-Copy code from index.js and shapes.js <br>Open terminal and run 'npm init -y','npm i inquirer@8.2.4', and 'node index.js'<br> Complete promts in terminal 
+Copy code from index.js and shapes.js <br>Open terminal and run 'npm init -y' <br>Run 'npm i inquirer@8.2.4' <br>Run 'node index.js'<br> Complete promts in terminal 
 
 <a name="use"></a>
 ## Usage
@@ -27,7 +23,7 @@ Be chill
 
 <a name="test"></a>
 ## Tests
-Copy code from shapes.test.js <br>In terminal run 'npm i --save-dev jest' and then 'npm run test'
+Copy code from shapes.test.js <br>In terminal run 'npm i --save-dev jest' <br>Run 'npm run test'
 
 <a name="questions"></a>
 ## Questions
